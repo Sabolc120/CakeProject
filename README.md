@@ -12,3 +12,6 @@ Tervben vannak:
 5. Kosár funkció
 6. Admin felület ahol a rendeléseket lehet kezelni
 7. Rendelési felület.
+
+BEMUTATÓ VIDEÓ: https://youtu.be/vo6D_rkdhYg
+
